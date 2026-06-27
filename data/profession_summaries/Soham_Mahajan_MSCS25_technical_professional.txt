@@ -1,0 +1,31 @@
+Contact Information
+Name: Soham Mahajan
+Phone Number: (508)-509-5707
+Email: smahajan1101@gmail.com
+LinkedIn: linkedin.com/sohammahajAn
+Location: Boston, MA
+
+Technical Skills
+Languages / Frameworks: Python, C/C++, Go, SQL, R, Bash, Flask, FastAPI, PySpark
+AI / ML: PyTorch, TensorFlow, Hugging Face, LangChain, BERT, RAG, MLflow, Keras, CUDA, SpaCy
+Database / Vector Stores: Oracle, MySQL, PostgreSQL, MongoDB, DynamoDB, Snowflake, Teradata, Pinecone, Qdrant, FAISS
+Cloud & MLOps: AWS 
+
+Work Experience
+Company: DIGITebl Private Limited 
+Position: Software Engineer Intern 
+Duration: Sep 2020 - Jan 2021
+
+Responsibilities:
+- Built REST APIs in Python using Flask and PyTest to enhance backend performance
+- Created real-time data pipelines integrated with Tableau for executive dashboards with predictive insights 
+- Developed a natural language interface using the OpenAI API for translating English queries into SQL for Redshift 
+- Implemented contextual suggestions, anomaly detection, and predictive analytics to improve decision-making 
+- Engineered scalable pipelines for processing over 200K PDF files
+
+Project Experience
+Project: AutoDeployX CI/CD Automation Framework
+Responsibilities:
+- Designed a full CI/CD pipeline incorporating unit tests, linting, Docker image building, and vulnerability scanning 
+- Integrated GitHub Actions for automatic deployment to an EC2-hosted environment 
+- Set up post-deployment alerts to be sent to Slack for notification purposes
